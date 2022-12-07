@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $((0xfee10000))
+echo tr "A-Za-z" "N-Za-Mn-za-m" 
